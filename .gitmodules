@@ -1,0 +1,42 @@
+[submodule "ancillary"]
+	path = karttur_v202003/geoimagine/ancillary
+	url = https://github.com/karttur/geoimagine02-ancillary
+[submodule "gis"]
+	path = karttur_v202003/geoimagine/gis
+	url = https://github.com/karttur/geoimagine02-gis
+[submodule "ktpandas"]
+	path = karttur_v202003/geoimagine/ktpandas
+	url = https://github.com/karttur/geoimagine02-ktpandas
+[submodule "landsat"]
+	path = karttur_v202003/geoimagine/landsat
+	url = https://github.com/karttur/geoimagine02-landsat
+[submodule "layout"]
+	path = karttur_v202003/geoimagine/layout
+	url = https://github.com/karttur/geoimagine02-layout
+[submodule "modis"]
+	path = karttur_v202003/geoimagine/modis
+	url = https://github.com/karttur/geoimagine02-modis
+[submodule "params"]
+	path = karttur_v202003/geoimagine/params
+	url = https://github.com/karttur/geoimagine02-params
+[submodule "postgresdb"]
+	path = karttur_v202003/geoimagine/postgresdb
+	url = https://github.com/karttur/geoimagine02-postgresdb
+[submodule "projects"]
+	path = karttur_v202003/geoimagine/projects
+	url = https://github.com/karttur/geoimagine02-projects
+[submodule "sentinel"]
+	path = karttur_v202003/geoimagine/sentinel
+	url = https://github.com/karttur/geoimagine02-sentinel
+[submodule "setup_db"]
+	path = karttur_v202003/geoimagine/setup_db
+	url = https://github.com/karttur/geoimagine02-setup_db
+[submodule "smap"]
+	path = karttur_v202003/geoimagine/smap
+	url = https://github.com/karttur/geoimagine02-smap
+[submodule "support"]
+	path = karttur_v202003/geoimagine/support
+	url = https://github.com/karttur/geoimagine02-support
+[submodule "updatedb"]
+	path = karttur_v202003/geoimagine/updatedb
+	url = https://github.com/karttur/geoimagine02-updatedb
