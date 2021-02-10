@@ -40,3 +40,6 @@
 [submodule "updatedb"]
 	path = karttur_v202003/geoimagine/updatedb
 	url = https://github.com/karttur/geoimagine02-updatedb
+[submodule "setup_processes"]
+	path = karttur_v202003/geoimagine/setup_processes
+	url = https://github.com/karttur/geoimagine02-setup_processes

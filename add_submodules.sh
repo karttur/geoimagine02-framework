@@ -9,7 +9,7 @@ git submodule add --name postgresdb https://github.com/karttur/geoimagine02-post
 git submodule add --name projects https://github.com/karttur/geoimagine02-projects karttur_v202003/geoimagine/projects
 git submodule add --name sentinel https://github.com/karttur/geoimagine02-sentinel karttur_v202003/geoimagine/sentinel
 git submodule add --name setup_db https://github.com/karttur/geoimagine02-setup_db karttur_v202003/geoimagine/setup_db
-git submodule add --name setup_process https://github.com/karttur/geoimagine02-setup_process karttur_v202003/geoimagine/setup_process
+git submodule add --name setup_processes https://github.com/karttur/geoimagine02-setup_processes karttur_v202003/geoimagine/setup_processes
 git submodule add --name smap https://github.com/karttur/geoimagine02-smap karttur_v202003/geoimagine/smap
 git submodule add --name support https://github.com/karttur/geoimagine02-support karttur_v202003/geoimagine/support
 git submodule add --name updatedb https://github.com/karttur/geoimagine02-updatedb karttur_v202003/geoimagine/updatedb
